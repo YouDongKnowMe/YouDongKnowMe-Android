@@ -1,20 +1,3 @@
 <resources>
-    <string name="app_name">유동노미</string>
-
-    <!-- main menu -->
-    <string name="menu_main_bottom_home">공지사항</string>
-    <string name="menu_main_bottom_calendar">학사일정</string>
-    <string name="menu_main_bottom_setting">설정</string>
-
-    <!-- notice -->
-    <string name="notice_title">공지사항</string>
-    <string name="notice_tab_university">대학</string>
-    <string name="notice_tab_faculty">학부</string>
-
-
-    <!-- schedule -->
-    <string name="schedule_title">학사일정</string>
-
-    <!-- setting -->
-    <string name="setting_title">설정</string>
+    <string name="app_name">YouDongKnowMe</string>
 </resources>

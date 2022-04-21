@@ -13,7 +13,7 @@ abstract class BaseActivity<T : ViewDataBinding, R : ViewModel> : AppCompatActiv
     lateinit var binding: T
     abstract val layoutResourceId: Int
     abstract val viewModel: R
-
+    abstract val viewModelFactory: ViewModelProvider.Factory
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
